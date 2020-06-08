@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Toffy/static/css/main.65d3e8ec.chunk.css",
+    "main.js": "/Toffy/static/js/main.8e660b34.chunk.js",
+    "main.js.map": "/Toffy/static/js/main.8e660b34.chunk.js.map",
+    "runtime-main.js": "/Toffy/static/js/runtime-main.0a37ce18.js",
+    "runtime-main.js.map": "/Toffy/static/js/runtime-main.0a37ce18.js.map",
+    "static/js/2.8d202ed3.chunk.js": "/Toffy/static/js/2.8d202ed3.chunk.js",
+    "static/js/2.8d202ed3.chunk.js.map": "/Toffy/static/js/2.8d202ed3.chunk.js.map",
+    "index.html": "/Toffy/index.html",
+    "precache-manifest.37f81be1f2b5c6fa333dc007c9128887.js": "/Toffy/precache-manifest.37f81be1f2b5c6fa333dc007c9128887.js",
+    "service-worker.js": "/Toffy/service-worker.js",
+    "static/css/main.65d3e8ec.chunk.css.map": "/Toffy/static/css/main.65d3e8ec.chunk.css.map",
+    "static/js/2.8d202ed3.chunk.js.LICENSE.txt": "/Toffy/static/js/2.8d202ed3.chunk.js.LICENSE.txt",
+    "static/media/bootstrap4-neon-glow.css": "/Toffy/static/media/A_back.9e1b6abb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a37ce18.js",
+    "static/js/2.8d202ed3.chunk.js",
+    "static/css/main.65d3e8ec.chunk.css",
+    "static/js/main.8e660b34.chunk.js"
+  ]
+}
