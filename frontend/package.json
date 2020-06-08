@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pianist5555.github.io/",
+  "homepage": "https://pianist5555.github.io/Toffy",
   "dependencies": {
     "@n8tb1t/use-scroll-position": "^1.0.43",
     "@testing-library/jest-dom": "^4.2.4",
